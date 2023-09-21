@@ -1,0 +1,25 @@
+1- [650, 440, 120, 40]
+2- 27
+3- 30
+4- [31.76, 43.85, 48.5]
+5- true , false
+6- [  'leonardo',  'donatello',  'michaelangelo',  'raphael',  'Shredder']
+7- [ 'Batman', 'Bane' ]
+8- // "number" (NaN) 
+// "function" (String)
+// "undefined"
+// "object" (null)
+ // "object" (an array is a specialized type of object)
+ 
+
+11- ['white', 'black', 'gray']
+true
+12-  2
+     undefined
+13- { firstName: 'john', lastName: 'doe' }
+    { firstName: 'john', lastName: 'doe' }
+14- 1 * 5 * 10 = 50
+15- 
+  john= 2
+  jack= 2
+
